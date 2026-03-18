@@ -1,6 +1,8 @@
 # Ignore the actual database
 portfolio.db
 
+# Ignore all CSV data files
+*.csv
 
 # Ignore any brokerage PDFs
 *.pdf
