@@ -1,0 +1,3 @@
+pip install pandas numpy streamlit plotly requests beautifulsoup4
+
+This software is for educational and informational purposes only and does not constitute financial advice. The scripts interact with public web endpoints that may change or update without notice, which could cause temporary disruptions in live data fetching. Always verify your portfolio values independently.

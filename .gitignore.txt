@@ -1,0 +1,12 @@
+# Ignore the actual database
+portfolio.db
+
+
+# Ignore any brokerage PDFs
+*.pdf
+
+# Standard Python ignores
+__pycache__/
+.venv/
+env/
+.DS_Store
